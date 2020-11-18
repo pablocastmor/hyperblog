@@ -6,3 +6,5 @@ como auditor.
 Comenzamos con los cambios.
 
 Segundo cambio.
+
+Tercer cambio quedara en Staging para borrar con catched.
