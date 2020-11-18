@@ -3,3 +3,9 @@ body {
     color: #093209;
 
 }
+
+#post{
+    width: 70%;
+    padding: 1em;
+    border: 1px solid;
+}
